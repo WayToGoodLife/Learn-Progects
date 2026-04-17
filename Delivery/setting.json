@@ -1,0 +1,7 @@
+{
+    "http.proxy": "",
+    "http.proxyStrictSSL": false,
+    "http.proxySupport": "off",
+    "extensions.autoUpdate": false,
+    "extensions.autoCheckUpdates": false
+}

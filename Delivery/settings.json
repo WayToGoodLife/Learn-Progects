@@ -1,0 +1,6 @@
+{
+    "files.autoGuessEncoding": true,
+    "http.proxy": "http://10.0.62.52:3128",
+    "http.proxySupport": "on",
+    "http.experimental.systemCertificatesV2": true
+  }
